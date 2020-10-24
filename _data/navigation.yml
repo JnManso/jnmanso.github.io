@@ -6,5 +6,9 @@ main:
     url: /year-archive/
   - title: "Tags"
     url: /tags/
+  - title: "Media"
+    url: /media/
+  - title: "About Me"
+    url: /about/
   - title: "Privacy policy"
     url: /terms/
