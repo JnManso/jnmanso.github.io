@@ -96,7 +96,7 @@ author:
   name             : "João Manso"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "We are the sum of our actions, and therefore our habits make all the difference - Aristotle"
-  location         : "Portugal"
+  # location         : "Portugal"
   email            :
   links:
     - label: "Email"
@@ -104,7 +104,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://manso.eu"
+      url: "https://joao.manso.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jnmanso"
