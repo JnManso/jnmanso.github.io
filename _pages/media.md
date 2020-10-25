@@ -8,7 +8,7 @@ author_profile: true
 
 Portuguese presentations:
 
-Netponto: [Member information](http://netponto.org/membro/joao-manso/ "Member information")
+Netponto - [Member information](http://netponto.org/membro/joao-manso/ "Member information"):
 
 *   22-11-2014 - [Lightning Talks - 1](http://netponto.org/sessao/lightning-talks-1/ "Lightning Talks - 1")
 *   24-09-2011 - [The Clean Coder: A Code of Conduct for Professional Programmers](http://netponto.org/sessao/the-clean-coder-a-code-of-conduct-for-professional-programmers/ "The Clean Coder: A Code of Conduct for Professional Programmers")
