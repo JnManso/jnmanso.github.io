@@ -6,13 +6,13 @@ layout: single
 author_profile: true
 ---
 
-Previously worked as a consultant for Microsoft Services to help it's costumers. Now I'm developing products for using around the world. I have experience in a varied tech stacks, countries and organizations.
+Previously worked as a consultant for Microsoft Services to help its costumers. Now I’m developing products for using around the world. I have experience in varied tech stacks, countries and organizations.
 
-I'm a software engineer, problem solver, continuous learner who likes to improve my skills every day and feel that my code evolves to deliver hight quality software. I'm a pragmatic developer that delivers what the business want with high quality and use the best engineering practices. But the best way to learn is to teach, so I like to be a mentor.
+I’m a software engineer, problem solver, continuous learner who likes to improve my skills every day and feel that my code evolves to deliver high-quality software. I’m a pragmatic developer that delivers what the business wants with high quality and use the best engineering practices. But the best way to learn is to teach, so I like to be a mentor.
 
-Firstly in my carrear I started working as a web developer and lately I've been focused on backend development with distributed systems with multi-region active-active architectures, to achieve high availability, scalable and reliable software created using both .NET or Java/Spring.
+Firstly in my career, I started working as a web developer and lately I’ve been focused on backend development with distributed systems with multi-region active-active architectures, to achieve high availability, scalable and reliable software created using both .NET or Java/Spring.
 
-I've being working in Agile environments that follow CI/CD (continuous integration, continuous delivery) and continuous deployment (for canary and production) pipelines that works along with unit testing, functional testing, non functional testing (load testing), integration testing to ensure hight quality software.
+I’ve been working in Agile environments that follow CI/CD (continuous integration, continuous delivery) and continuous deployment (for canary and production) pipelines that work along with unit testing, functional testing, non-functional testing (load testing), integration testing to ensure high-quality software.
 
 I'm a proud member of the .net group in portugal: www.netponto.org.
 
